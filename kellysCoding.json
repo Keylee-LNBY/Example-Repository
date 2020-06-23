@@ -1,0 +1,15 @@
+
+
+[
+    {
+        "pName": "Project Name",
+        "langUsed": "Languages Used: ex: HTML, React, javaScript",
+        "pDetail": "Short detail of the project",
+        "githubRepo": "GitHub Repo Link",
+        "deployedLink": "Link to the deployed version of the project",
+        "futures": "Future development"
+    },
+    {
+
+    }
+]
